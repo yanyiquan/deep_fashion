@@ -5,3 +5,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 Werkzeug==0.12.2
+iglovikov_helper_functions
+cloths_segmentation
+gunicorn
+Click==7.0
